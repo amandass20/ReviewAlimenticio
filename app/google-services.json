@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "313768746741",
+    "project_id": "rev-alimenticio-serv",
+    "storage_bucket": "rev-alimenticio-serv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313768746741:android:818235e5cf85400de56fbc",
+        "android_client_info": {
+          "package_name": "com.example.reviewalimenticio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313768746741-7aa9j9gmqbcqeosek84ab5ft4ihdbskm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGBdwLlmvm-Ef7JpMwibVkOxhLQvGdmtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313768746741-7aa9j9gmqbcqeosek84ab5ft4ihdbskm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Review Alimenticio</string>
+    <string name="entrar">Entrar</string>
+    <string name="text_cadastro">Crie uma conta clicando aqui</string>
+    <string name="title_adicionar_refeicao">Adicionar Refeição</string>
+    <string name="nota">Deixe aqui sua avaliação</string>
+</resources>
